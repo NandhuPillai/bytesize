@@ -1,2 +1,2 @@
-# bytesize
-Blueprint Hackathon Project
+# Byte Sized
+Blueprint  2023 Hackathon Project
